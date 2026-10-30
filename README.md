@@ -1,3 +1,14 @@
-# JavaPractice
+# Java Backend Practice & Micro-Drills
 
-My Java learning and revision exercises.
+Repository for tracking daily Java core drills, daily practice, and backend foundational exercises.
+
+## Core Topics Covered
+- Object-Oriented Programming (Classes, Interfaces, Inheritance)
+- Java Collections Framework (`List`, `Map`, `Set`)
+- Streams & Lambdas
+- Version Control with Git & GitHub
+
+## Goal
+
+Building a strong foundation in Java and backend development 
+through consistent practice and hands-on exercises.
